@@ -15,7 +15,7 @@ while resposta == 'S':
     os.system('clear')
     print("\n")
 
-os.system('cls')
+os.system('clear')
 print("\n")
 
 for i in range(0,len(equipamentos)):
